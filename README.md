@@ -1,1 +1,1 @@
-# JLLT-Training
+# JLLT-Training repository
